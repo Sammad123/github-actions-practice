@@ -1,5 +1,5 @@
 # This code is for tetsing app 
-# Flash app app sammad
+# Flash app app 
 
 from flask import Flask, render_template
 app = Flask(__name__)
